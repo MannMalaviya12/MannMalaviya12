@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MannMalaviya12
 - Learning New things and trying to do better
-- I’m currently learning JAVA, PHP and frontend Development.
-- I’m looking to collaborate for applications and Projects
+- Learning Data Structure Algorithims and Advanced Java
 - Mail - mannmalaviya12@gmail.com
+- Looking for 4 months internship(COOP) starting from May 2024.
