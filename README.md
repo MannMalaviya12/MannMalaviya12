@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MannMalaviya12
 - Learning New things and trying to do better
-- Learning Data Structure Algorithims and Advanced Java
+- Html, CSS, JavaScript, Python and Java
 - Mail - mannmalaviya12@gmail.com
 - Looking for 4 months internship(COOP) starting from May 2024.
