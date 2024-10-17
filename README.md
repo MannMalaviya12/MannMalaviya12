@@ -2,4 +2,3 @@
 - Learning New things and trying to do better
 - Html, CSS, JavaScript, Python and Java
 - Mail - mannmalaviya12@gmail.com
-- Looking for 4 months internship(COOP) starting from May 2024.
